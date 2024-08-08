@@ -1,0 +1,10 @@
+button#register-button {
+    position: relative;
+    bottom: 22px;
+}
+
+button#login-button {
+    position: relative;
+    right: 100px;
+    top: 15px;
+}

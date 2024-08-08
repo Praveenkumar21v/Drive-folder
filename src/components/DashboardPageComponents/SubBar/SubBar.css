@@ -1,0 +1,24 @@
+@media screen and (max-width:1024px){
+    p#directory {
+        margin-left: -56px;
+        width: max-content;
+    }
+}
+
+@media screen and (max-width:768px){
+    p#directory {
+        margin-left: 13px;
+        width: max-content;
+    }
+    ul#modal-folders {
+        margin-top: 10px;
+    }
+
+}
+
+@media screen and (max-width:426px){
+    .welcome{
+        display: none;
+    }
+}
+
